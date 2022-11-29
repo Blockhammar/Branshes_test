@@ -8,7 +8,7 @@ namespace Branshes_test
 {
     internal class Alien
     {
-        string Name { get; set; }
-        string Race { get; set; }
+        public string Name { get; set; }
+        public string Race { get; set; }
     }
 }
